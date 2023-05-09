@@ -16,8 +16,8 @@ public class StartView {
 //		
 //		cont.logIn("BEE");
 //		cont.logIn("KIN");
-		cont.updateMoney(110, 300);
-		cont.showAllCustomer();
+//		cont.updateMoney(110, 300);
+//		cont.showAllCustomer();
 
 	}
 }
